@@ -1,4 +1,4 @@
-## Lab # 8 DNA Methylation
+## DNA Methylation
 
 ## Table of Contents
 1. [Introduction](#intro)
